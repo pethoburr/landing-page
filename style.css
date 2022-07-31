@@ -1,0 +1,155 @@
+.upper {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    background-color: #1f2937;
+    color: white;
+}
+
+.random {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 40px;
+}
+
+li {
+    list-style: none;
+    font-size: 18px;
+}
+
+#logo {
+    font-size: 24px;
+    margin-bottom: 40px;
+    flex: 1;
+}
+
+.awesome {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    gap: 8px;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+    flex-shrink: 2;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.info {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    padding: 0px;
+}
+
+.pic {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #e5e7eb;
+}
+
+.line {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    padding: 80px;
+    padding-bottom: 0%;
+    margin-bottom: 0px;
+}
+
+.pyo {
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 80px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.bluebox {
+    display: flex;
+    padding: 40px;
+    background-color: #3882F6;
+    margin: 80px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+}
+
+.first {
+    color: white;
+}
+
+h1, h5 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.second {
+    margin-left: 80px;
+    margin-right: 80px;
+    border: 2px solid white;
+}
+
+footer {
+    color: white;
+    width: 100%;
+    background-color: #1f2937;
+    text-align: center;
+    padding: 60px;
+    font-size: 20px;
+}
+
+#awesome {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.container {
+    display: flex;
+    gap: 28px;
+}
+
+.flex {
+    display: flex;
+    justify-content: flex-end;
+    gap: 16px; 
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.signup {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 60px;
+}
+
+.kitchen {
+    flex: 1;
+    margin-right: 60px;
+}
+
+
+
+
